@@ -1,0 +1,7 @@
+2012-12-15 17:04:11,250 manager INFO 1.1.0
+2012-12-15 17:04:11,250 manager INFO Copyright (C) 2003-2010
+2012-12-15 17:04:11,250 manager INFO   Noriaki Ando
+2012-12-15 17:04:11,250 manager INFO   Intelligent Systems Research Institute, AIST
+2012-12-15 17:04:11,250 manager INFO Manager starting.
+2012-12-15 17:04:11,252 manager INFO Starting local logging.
+2012-12-15 17:04:13,267 manager.namingmanager INFO NameServer connection failed: corba/localhost
